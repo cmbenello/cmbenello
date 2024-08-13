@@ -1,5 +1,5 @@
 ### About Me
-Hi, I'm Charles and this is my [personal website](https://cmbenello.github.io/) <br>
+Hi, I'm Charles<br>
 I'm interested in Databases, Optimization and Complexity Theory <br>
 I'm currently at the University of Chicago, double majoring in Computer Science and Mathematics and minoring in Korean<br>
 
