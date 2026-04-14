@@ -21,10 +21,4 @@ Currently interning at **Alter Domus** (AI infrastructure for financial services
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake.svg" />
-  <img alt="github contribution graph snake animation" src="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake.svg" />
-</picture>
-
 [cmbenello.github.io](https://cmbenello.github.io)
