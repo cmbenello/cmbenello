@@ -10,15 +10,11 @@ Software engineer and systems researcher at the University of Chicago. I work on
 
 ### Tech
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,typescript,cuda,pytorch,react,nextjs,flask,linux,git,docker&theme=dark&perline=13" />
+</a>
+</p>
 
 ### Publications
 
@@ -27,5 +23,11 @@ Software engineer and systems researcher at the University of Chicago. I work on
 3. R. Otaki, J.H. Chang, **C. Benello**, A. Elmore, G. Graefe. "Resource-Adaptive Query Execution with Paged Memory Management." *CIDR 2025.*
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cmbenello/cmbenello/output/github-snake.svg" />
+</picture>
 
 [cmbenello.github.io](https://cmbenello.github.io)
